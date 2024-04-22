@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+bun.lockb
+package-lock.json
+pnpm-lock.yaml
+
+# environment variables
+.env*.local
+
+# google cloud credentials
+gcloudkey.json
+
+# next.js
+.next
+next-env.d.ts

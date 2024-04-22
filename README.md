@@ -1,0 +1,1 @@
+Boilerplate pessoal para a criação de projetos em next.js.
