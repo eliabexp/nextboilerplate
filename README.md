@@ -1,1 +1,1 @@
-Boilerplate pessoal para a criação de projetos em next.js.
+Boilerplate para a criação de projetos em Next.js com tailwindcss.
